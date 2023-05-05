@@ -1,0 +1,39 @@
+<!DOCTYPE HTML
+    <html>
+    <head>
+        <title>Ejercicio 02/2 - Tablas en HTML</title>
+    </head> 
+    <body>
+       
+
+       <table>
+        <tr>
+            <th>Título</th>
+            <th>Autor</th>
+            <th>Año Publicación</th>
+            <th>Amazón</th>
+        </tr>
+        <tr>
+            <td>On the Line: A Riveting Novel of Suspense</td>
+            <td>Fern Michaels</td>
+            <td>2020</td>
+            <td><a href="https://www.amazon.com/-/es/Fern-Michaels-ebook/dp/B0B6D6RW8Q/ref=sr_1_4?adgrpid=83219320244&hvadid=585479351966&hvdev=c&hvlocint=1012872&hvlocphy=9074275&hvnetw=g&hvqmt=b&hvrand=2510506945385792454&hvtargid=kwd-19417346&hydadcr=28017_14525551&keywords=amazon+online+book+store&qid=1683298327&sr=8-4">Conseguirlo!</a></td>
+
+        </tr>
+        <tr>
+            <td>Selling on Amazon For Dummie</td>
+            <td>Deniz Olmez</td>
+            <td>2023</td>
+            <td><a href="https://www.amazon.com/-/es/Deniz-Olmez/dp/1119689333/ref=sr_1_7?adgrpid=83219320244&hvadid=585479351966&hvdev=c&hvlocint=1012872&hvlocphy=9074275&hvnetw=g&hvqmt=b&hvrand=2510506945385792454&hvtargid=kwd-19417346&hydadcr=28017_14525551&keywords=amazon+online+book+store&qid=1683298584&sr=8-7">Conseguirlo!</a></td>
+
+        </tr>
+        <tr>
+            <td>Blood Trails: A Michael Flint Novel</td>
+            <td>Diane Capri</td>
+            <td>2021</td>
+            <td><a href="https://www.amazon.com/-/es/Diane-Capri-ebook/dp/B09NX9TSCK/ref=sr_1_9?adgrpid=83219320244&hvadid=585479351966&hvdev=c&hvlocint=1012872&hvlocphy=9074275&hvnetw=g&hvqmt=b&hvrand=2510506945385792454&hvtargid=kwd-19417346&hydadcr=28017_14525551&keywords=amazon+online+book+store&qid=1683298584&sr=8-9">Conseguirlo!</a></td>
+
+        </tr>
+       </table>
+    </body>
+    </html>
