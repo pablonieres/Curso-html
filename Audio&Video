@@ -1,0 +1,27 @@
+<!DOCTYPE HTML
+    <html>
+    <head>
+        <title></title>
+    </head> 
+    <body>
+   
+        <div>
+            <h1>Aprendiendo a utilizar imágenes</h1>
+            <img src="fifa23.webp" alt="Fifa23" width="300px">
+        </div>
+
+        <div>
+            <h1>Aprendiendo a utilizar los vídeos</h1>
+            <video width="300px" height="300px" controls autoplay muted loop>
+                <source src="ide y extensiones 720p.mp4" type="video/mp4"/>
+           </video>
+        </div>
+
+        <div>
+            <h1>Aprendiendo a utilizar los audios</h1>
+            <audio width="300px" controls autoplay  loop>
+                <source src="Sin Miedo A Nada.mp3" type="audio/mp3"/>
+           </audio>
+        </div>
+    </body>
+    </html>
